@@ -1,0 +1,15 @@
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\C# seminar 5 Homework\bin\Debug\net6.0\C# seminar 5 Homework.exe
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\C# seminar 5 Homework\bin\Debug\net6.0\C# seminar 5 Homework.deps.json
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\C# seminar 5 Homework\bin\Debug\net6.0\C# seminar 5 Homework.runtimeconfig.json
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\C# seminar 5 Homework\bin\Debug\net6.0\C# seminar 5 Homework.dll
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\C# seminar 5 Homework\bin\Debug\net6.0\C# seminar 5 Homework.pdb
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\C# seminar 5 Homework\obj\Debug\net6.0\C# seminar 5 Homework.csproj.AssemblyReference.cache
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\C# seminar 5 Homework\obj\Debug\net6.0\C# seminar 5 Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\C# seminar 5 Homework\obj\Debug\net6.0\C# seminar 5 Homework.AssemblyInfoInputs.cache
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\C# seminar 5 Homework\obj\Debug\net6.0\C# seminar 5 Homework.AssemblyInfo.cs
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\C# seminar 5 Homework\obj\Debug\net6.0\C# seminar 5 Homework.csproj.CoreCompileInputs.cache
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\C# seminar 5 Homework\obj\Debug\net6.0\C# seminar 5 Homework.dll
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\C# seminar 5 Homework\obj\Debug\net6.0\refint\C# seminar 5 Homework.dll
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\C# seminar 5 Homework\obj\Debug\net6.0\C# seminar 5 Homework.pdb
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\C# seminar 5 Homework\obj\Debug\net6.0\C# seminar 5 Homework.genruntimeconfig.cache
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\C# seminar 5 Homework\obj\Debug\net6.0\ref\C# seminar 5 Homework.dll
